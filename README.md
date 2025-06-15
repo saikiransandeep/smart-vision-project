@@ -44,6 +44,6 @@ Segments and visualizes human body poses using MediaPipe Pose.
 Ensure Python 3.7+ is installed. Then run the following:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/saikiransandeep/smart-vision-project.git
+cd smart-vision-project
 pip install -r requirements.txt
